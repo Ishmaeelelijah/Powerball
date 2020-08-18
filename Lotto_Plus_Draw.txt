@@ -1,0 +1,24 @@
+This is the prize list according the the amount of numbers you get right
+Prediction are as followed: 
+
+6 numbers correct Prize-R10,000,000.00
+
+5 numbers correct Prize-R8,584.00
+
+4 numbers correct Prize-R2,384.00
+
+3 numbers correct Prize- R100.50
+
+2 numbers correct Prize-R20.00
+
+0 numbers correct Prize-R0
+Players name and age is:
+elie , 23
+Players lotto selection numbers:
+[12, 12, 23, 34, 43, 45]
+The lucky lotto numbers for this week is:
+[10, 14, 19, 27, 30, 42]
+You have guessed  0  number(s) correctly
+
+Time played lotto: 
+2020-04-16 14:21:29
